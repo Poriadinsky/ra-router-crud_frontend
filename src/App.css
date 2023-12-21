@@ -1,0 +1,29 @@
+.Mainpage,
+.AddPost,
+.PostView {
+  width: 500px;
+  margin: 30px auto;
+  padding: 20px 30px;
+  border: 1px solid black;
+}
+
+.Form-close,
+.PostView-close {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 35px;
+  line-height: 30px;
+  cursor: pointer;
+}
+
+.Form-button,
+.PostView-edit,
+.PostView-delete {
+  display: block;
+  margin-bottom: 2px;
+  padding: 2px;
+  background-color: rgb(144, 144, 247);
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+}

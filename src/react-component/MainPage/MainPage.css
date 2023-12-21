@@ -1,0 +1,12 @@
+.Mainpage-header {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+  }
+  
+  .Mainpage-addpost {
+    margin-bottom: 10px;
+    border-radius: 4px;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
